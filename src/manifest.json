@@ -1,0 +1,18 @@
+{
+  "name": "Miklat - Shelter Finder",
+  "short_name": "Miklat",
+  "description": "Find the nearest shelter in Israel",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#0e5a8a",
+  "background_color": "#d8e8f3",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
